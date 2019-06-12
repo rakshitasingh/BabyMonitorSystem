@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\L'avenour\\Desktop\\protect-baby-monitor\\app\\build\\intermediates\\res\\merged\\debug\\layout-watch-v20\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\L'avenour\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\c96dcc088db87f70da32c8a926f60732\\res\\layout-watch-v20\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\protect-baby-monitor\\app\\build\\intermediates\\res\\merged\\debug\\layout-watch-v20\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\968d54971c1385236d7adb669365dd3a\\res\\layout-watch-v20\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\L'avenour\\Desktop\\protect-baby-monitor\\app\\build\\intermediates\\res\\merged\\debug\\layout-watch-v20\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\L'avenour\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\c96dcc088db87f70da32c8a926f60732\\res\\layout-watch-v20\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\protect-baby-monitor\\app\\build\\intermediates\\res\\merged\\debug\\layout-watch-v20\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\968d54971c1385236d7adb669365dd3a\\res\\layout-watch-v20\\abc_alert_dialog_button_bar_material.xml"
+    }
+]

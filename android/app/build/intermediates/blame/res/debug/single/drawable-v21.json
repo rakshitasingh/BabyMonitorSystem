@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\L'avenour\\Desktop\\protect-baby-monitor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_list_divider_material.xml",
+        "source": "C:\\Users\\L'avenour\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\c96dcc088db87f70da32c8a926f60732\\res\\drawable-v21\\abc_list_divider_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\L'avenour\\Desktop\\protect-baby-monitor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\L'avenour\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\f461dcd91981e7dd9b5f00161d01c5fb\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\L'avenour\\Desktop\\protect-baby-monitor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\L'avenour\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\c96dcc088db87f70da32c8a926f60732\\res\\drawable-v21\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\protect-baby-monitor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\968d54971c1385236d7adb669365dd3a\\res\\drawable-v21\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\L'avenour\\Desktop\\protect-baby-monitor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\L'avenour\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\c96dcc088db87f70da32c8a926f60732\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\protect-baby-monitor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_list_divider_material.xml",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\968d54971c1385236d7adb669365dd3a\\res\\drawable-v21\\abc_list_divider_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\protect-baby-monitor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\968d54971c1385236d7adb669365dd3a\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\protect-baby-monitor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\968d54971c1385236d7adb669365dd3a\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\protect-baby-monitor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\968d54971c1385236d7adb669365dd3a\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\protect-baby-monitor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\82d2ce69113f2c21ae0c5591507f488a\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\L'avenour\\Desktop\\protect-baby-monitor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\L'avenour\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\c96dcc088db87f70da32c8a926f60732\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\L'avenour\\Desktop\\protect-baby-monitor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\L'avenour\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\c96dcc088db87f70da32c8a926f60732\\res\\drawable-v21\\abc_edit_text_material.xml"
+    }
+]

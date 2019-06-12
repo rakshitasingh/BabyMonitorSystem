@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\User\\Desktop\\protect-baby-monitor\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\82d2ce69113f2c21ae0c5591507f488a\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\protect-baby-monitor\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\82d2ce69113f2c21ae0c5591507f488a\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\L'avenour\\Desktop\\protect-baby-monitor\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\L'avenour\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\f461dcd91981e7dd9b5f00161d01c5fb\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\protect-baby-monitor\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\82d2ce69113f2c21ae0c5591507f488a\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\L'avenour\\Desktop\\protect-baby-monitor\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\L'avenour\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\f461dcd91981e7dd9b5f00161d01c5fb\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\L'avenour\\Desktop\\protect-baby-monitor\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\L'avenour\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\f461dcd91981e7dd9b5f00161d01c5fb\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\L'avenour\\Desktop\\protect-baby-monitor\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\L'avenour\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\f461dcd91981e7dd9b5f00161d01c5fb\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\protect-baby-monitor\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\82d2ce69113f2c21ae0c5591507f488a\\res\\layout-v21\\notification_template_icon_group.xml"
+    }
+]

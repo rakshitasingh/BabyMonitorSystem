@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    tools:context="protect.babymonitor.QuestionActivity">
+
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:id="@+id/temp"
+        android:layout_marginTop="100dp"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/momths3"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="0-3 Months"/>
+  <Button
+      android:id="@+id/year3"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="3 Month - 3 years"/>
+
+    </RadioGroup>
+
+</LinearLayout>
