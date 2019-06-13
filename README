@@ -1,0 +1,33 @@
+# BabyMonitorSystem
+
+#For IOT implementation (you can also view the video so as to see teh circuit the sensors the woking the test cases etc and a better understanding)
+https://youtu.be/1bI_evxnZOI
+
+Sensor Requirements to build circuit
+LM35 sensor 
+PIR Sensor
+GSM Sim900A module(built with Dual Band GSM/GPRS engine frequencies ranging 900/ 1800 MHz) 
+MIC and LEDs and diodes
+Arduino software package (IDE),etc
+The connection of which sensor to which port number is described with the help of a circuit diagram and block diagram and test cases in the
+IOT_Description docx for better understanding along with the description of the project and methodological framework and flowchart
+After receiving alerting texts with the help of gs module whenever the sensors are triggered is when the second extention of the project which is
+the android application comes into play
+
+#For Android implementation  you can download the app from the apk generated here and install in both devices as you will be audio streamimng
+from the child device to the parent device
+the apk is : https://drive.google.com/file/d/1gB9ojKHM2WYB3N-u0vrWE7s2cpAKnV2W/view?usp=drivesdk
+           : https://drive.google.com/open?id=1_t2dhIHVMu-jMR83KQ35Je_pDmx3gJ4M
+
+Or you can also clone the project in and build and run main activity in android studio
+You can see the functioning
+https://youtu.be/_-NXatywOQ4
+
+This is made keeping in mind the number of alerts one has received from the above system and parents are thinking of preventive steps and 
+taking into account As we know taking temperature type varies with age and also with the fact if it is rectal or oral or armpit.As when babies 
+are 0-3 months old only rectal reading is advised and hence further symptoms are taking into consideration before predicting if the child needs
+home remedies or instant doctor care of nearby available hospitals with their contact information.Same prediction is made when we enter how many
+time has the nappy wet message been received. Thirdly our baby cry feature to audio stream where it could be used as a parent device or a child 
+device according to the convenience of the parents This is in addition extention of the baby monitor system which deals with preventive measures 
+once gsm module starts alerting and notifying parents.
+For flowchart and description further to enhance understanding the Desciption(iot+android) docx is also for elaboration
